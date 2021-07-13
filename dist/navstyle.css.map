@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../app/scss/components/navstyle.scss"
+    ],
+    "names": [],
+    "file": "navstyle.css"
+}
