@@ -1,0 +1,8 @@
+@use '../util/' as *;
+.toggle__button {
+  width: rem(16);
+  height: rem(16);
+  border-radius: 50%;
+  background-color: var(--toggle);
+}
+/*# sourceMappingURL=toggle.css.map */
