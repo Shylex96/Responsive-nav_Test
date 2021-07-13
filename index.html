@@ -26,7 +26,33 @@
 	
 
 </head>
+
 <body>
-	
+	<header>
+		<a href="#" class="name">My Portfolio</a>
+		<div class="menu-toggle"></div>
+		<nav>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">About</a></li>
+				<li><a href="#">Work</a></li>
+				<li><a href="#">Contact</a></li>
+			</ul>
+		</nav>
+		<div class="clearfix"></div>
+	</header>
+	<script src="app/js/script.js"></script>
+	<script
+  src="https://code.jquery.com/jquery-3.6.0.js"
+  integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+  crossorigin="anonymous"></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('.menu-toggle').click(function(){
+				$('.menu-toggle').toggleClass('active')
+				$('nav').toggleClass('active')
+			})
+		})
+	</script>
 </body>
 </html>
