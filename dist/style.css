@@ -1,3 +1,2 @@
-@use 'globals';
-@use 'components';
+:root{--font-inter:"Inter",sans-serif}body{font-family:var(font-inter)}:root{--limegreen:#1db489;--brightred:#dc414e;--facebook:#198ff5;--twitter:#1ca0f2;--instagram-start:#fdc468;--instagram-end:#df4996;--youtube:#c4032a;--toggle-bg-start:#378fe6;--toggle-bg-end:#3eda82;--toggle:#aeb3cb;--dark-bg:#1e202a;--dark-top-bg:#1f212e;--dark-card:#252a41;--dark-text1:#8b97c6;--dark-text2:#fff;--light-bg:#1e1f2a;--light-top-bg:#f5f7ff --light-card:#f0f2fa;--light-text1:#63687e;--light-text2:#1e202a;--perfect-bg:#1e2233;--perfect-text:#069370}html{box-sizing:border-box;font-size:100%}*,:after,:before{box-sizing:inherit}body{font-family:var(--font-inter);margin:0;padding:0}h1,h2,h3{margin-top:0}a,a:active,a:visited{text-decoration:none}.card{padding:1.25rem}.toggle__button{background-color:var(--toggle);border-radius:50%;height:1rem;width:1rem}.name{background-color:#f08080}
 /*# sourceMappingURL=style.css.map */

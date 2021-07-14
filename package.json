@@ -17,6 +17,7 @@
     "gulp-terser": "^2.0.1",
     "postcss": "^8.3.5",
     "resolve-url": "^0.2.1",
+    "sass": "^1.35.2",
     "urix": "^0.1.0"
   },
   "devDependencies": {},
