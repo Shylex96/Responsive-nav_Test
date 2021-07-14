@@ -1,4 +1,3 @@
-@use '../util/' as *;
 .toggle__button {
   width: rem(16);
   height: rem(16);
