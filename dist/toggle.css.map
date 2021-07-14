@@ -1,6 +1,6 @@
 {
     "version": 3,
-    "mappings": "AAEE,AAAD,eAAS,CAAC;EACT,KAAK,EAAE,OAAO;EACd,MAAM,EAAE,OAAO;EACf,aAAa,EAAE,GAAG;EAClB,gBAAgB,EAAE,aAAa;CAC/B",
+    "mappings": "AAAA,IAAI,CAAJ,eAAI;AAIF,AAAD,eAAS,CAAC;EACT,KAAK,EAAE,OAAO;EACd,MAAM,EAAE,OAAO;EACf,aAAa,EAAE,GAAG;EAClB,gBAAgB,EAAE,aAAa;CAC/B",
     "sources": [
         "../app/scss/components/toggle.scss"
     ],
